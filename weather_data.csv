@@ -1,0 +1,9 @@
+﻿day,temperature,windspeed,event
+01-01-2017,32,6,Rain
+01-04-2017,NaN,9,sunny
+01-07-2017,28,NaN,snow
+01-10-2017,NaN,7,snow
+01-01-2018,32,NaN,sunny
+01-04-2018,NaN,NaN,sunny
+01-07-2018,34,8,cloudy
+01-10-2018,40,12,sunny
